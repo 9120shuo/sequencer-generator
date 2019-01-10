@@ -1,0 +1,50 @@
+.spanWrapper {
+  font-size: 30px;
+  padding: 30px;
+  text-align: center;
+  font-weight: 90;
+  color: #ffffff;
+}
+
+.infoSpan {
+  font-weight: 900;
+  color: #cf9b9b;
+}
+
+.disabledBtn,
+.disabledBtn:hover {
+  cursor: not-allowed;
+}
+
+.btn {
+  cursor: pointer;
+  height: 36px;
+  line-height: 36px;
+  border: 0.1em solid #ffffff;
+  color: #fff;
+  padding: 0 25px;
+  margin: 10px;
+  outline: none;
+  white-space: nowrap;
+  transition-property: box-shadow;
+  font-size: 18px;
+  font-weight: 600;
+  background-color: #a79790;
+}
+
+.btn:hover {
+  background-color: #d8cdc8;
+}
+
+.sequencerBtn {
+  border-radius: 60px;
+}
+
+.nextBtn {
+  font-weight: 100;
+}
+
+.activedBtn,
+.activedBtn:hover {
+  background-color: #2760bb;
+}

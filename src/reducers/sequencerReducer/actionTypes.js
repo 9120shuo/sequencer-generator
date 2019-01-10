@@ -1,0 +1,2 @@
+export const GET_SEQUENCER_COMPLETE = 'sequencer/GET_SEQUENCER_COMPLETE'
+export const GET_NEXT_COMPLETE = 'sequencer/GET_NEXT_COMPLETE'

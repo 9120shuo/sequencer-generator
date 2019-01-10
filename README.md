@@ -1,3 +1,5 @@
+**Please Note the project is developed under node:v10.15.0 and npm:6.4.1**
+
 ## How to run this App locally:
 
 1. clone the code to local
@@ -11,5 +13,3 @@
 
 4. run tests
    `npm test`
-
-** Please Note the project is developed under node:v10.15.0 and npm:6.4.1 **

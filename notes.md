@@ -8,7 +8,7 @@ I choose to use React and Redux for this project, because this is also my favior
 
 The project is created via `npx create-react` to take the advantage of less time consumed. I did not make much change to the created project other than:
 
-1. Add a .gitignore (to ignore node_modules package-lock.json etc.).
+1. Add a .gitignore (to ignore node_modules etc.).
 2. Make each dependency inside package.json a fixed version.(remove any ~ or ^).
 
 #### index.js
